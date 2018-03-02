@@ -1,2 +1,2 @@
 # PrisonerFrameWork
-Framework for writing algoritms competing in the prisoner dilemma
+Framework for creating algoritms competing in the prisoner dilemma. 
